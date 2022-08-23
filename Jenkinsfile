@@ -15,7 +15,7 @@ pipeline {
             echo '====================================='
             echo 'BUILD'
             echo '====================================='
-            sh 'mvn clean package'
+            // sh 'mvn clean package'
          }
       }
 
