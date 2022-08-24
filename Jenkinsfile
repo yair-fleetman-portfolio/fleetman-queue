@@ -8,6 +8,7 @@ pipeline {
      REPOSITORY_TAG="644435390668.dkr.ecr.eu-central-1.amazonaws.com/yair-fleetman"
    }
 
+
    stages {
 
       stage('Build Image') {
